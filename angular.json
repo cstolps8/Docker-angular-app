@@ -131,5 +131,8 @@
       }
     }
   },
-  "defaultProject": "aston-villa-app"
+  "defaultProject": "aston-villa-app",
+  "cli": {
+    "analytics": false
+  }
 }
