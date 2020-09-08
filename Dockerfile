@@ -9,4 +9,4 @@ RUN npm run build-serve
 ### STAGE 2: Run ###
 FROM nginx:1.17.1-alpine
 COPY nginx.conf nginx.conf
-COPY --from=build /src/app/dist/aston-villa-app /usr/share/nginx/html
+COPY --from=build /usr/src/app/dist/aston-villa-app /usr/share/nginx/html
