@@ -25,10 +25,7 @@
     "@angular/router": "~11.0.0-next.0",
     "bootstrap": "^4.5.2",
     "core-js": "^2.5.4",
-<<<<<<< HEAD
     "npm": "^6.14.8",
-=======
->>>>>>> d35c825c035438d9dc097803f3a9e62b6d11dccf
     "rxjs": "^6.6.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.10.3"
